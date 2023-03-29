@@ -1,4 +1,4 @@
-## OpenCore黑苹果EFI
+## OpenCore黑苹果EFI，EFI下班回家再上传
 
 ### 电脑配置
 ```swift
