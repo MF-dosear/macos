@@ -105,7 +105,8 @@ WiFi/蓝牙：奋威FV-HB1200（蓝牙不稳定，返厂中...）
 ```swift
 softwareupdate --list-full-installers;echo;echo "Please enter version number you wish to download:";read;$(if [ -n "$REPLY" ]; then; echo "softwareupdate --fetch-full-installer --full-installer-version "$REPLY; fi);
 ```
-![Uploading commandlinesoftwareupdateutility.e1679420.png…]()
+<img width="753" alt="commandlinesoftwareupdateutility e1679420" src="https://user-images.githubusercontent.com/20237339/228758162-5f3b0c3c-c102-4b2c-bd9b-cd09ac1e12ad.png">
+
 
 #### 2、设置安装程序
 现在我们将格式化 USB 以准备 macOS 安装程序和 OpenCore。我们希望使用带有 GUID 分区映射的 macOS Extended (HFS+)。这将创建两个分区：主分区MyVolume和第二个分区EFI，用作引导分区，您的固件将在其中检查引导文件。
