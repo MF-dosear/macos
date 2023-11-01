@@ -195,3 +195,7 @@ sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstall
 * [Alder Lake 超频：新功能](https://skatterbencher.com/2021/11/04/alder-lake-overclocking-whats-new/#Disable_Ring_to_Core_Ratio_Offset)
 * [alderlake 早起启动失败 ](https://github.com/tarbaII/OpenCore-Install-Guide/blob/alderlake/config-laptop.plist/icelake.md)
 * [类似错误](https://www.insanelymac.com/forum/topic/346484-10136-opencore-065-pre-install-stuck-on-amishimtimerboostexit/)
+
+更新到了最新 macOS Sonoma 系统
+
+![截屏2023-11-01 14 02 44](https://github.com/MF-dosear/macos/assets/20237339/3744d8d2-3a8c-474b-a68c-9e79d4a4af5a)
